@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 2
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 7
     },
     {
       "id": 3,
@@ -22,13 +22,13 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 6
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 2
     },
     {
       "id": 6,
@@ -40,13 +40,43 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 1
+    },
+    {
+      "name": "Goku",
+      "image": "https://www.japanpowered.com/media/images/goku.png",
+      "likes": 40,
+      "id": 13
+    },
+    {
+      "name": "Vegeta",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F11%2Fdragon-ball-z-yume-mrc-life-size-vegeta-statue-01.jpg?q=90&w=1400&cbr=1&fit=max",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Darth Vader",
+      "image": "https://www.swarovski.com/medias/?context=bWFzdGVyfHJvb3R8NTY1NjV8aW1hZ2UvanBlZ3xoMmIvaGNhLzkzODIyNjI0Mzk5NjYuanBnfDVkYWJjZDY1NDFhYTQzODk5ZjVlMjgzNTI3NjE4YmIwYjIyMzU0MDI2MjdkMDQ2OWFiZWYyNjFkM2U2Yjc4MDk",
+      "likes": 8,
+      "id": 15
+    },
+    {
+      "name": "Boba Fett",
+      "image": "http://www.andromedadesignslimited.com/shared/images/product/GNTStarWarsBobaFett_Open.jpg",
+      "likes": 9,
+      "id": 16
+    },
+    {
+      "name": "Master Roshi",
+      "image": "https://i.pinimg.com/originals/ce/a4/86/cea486616cb5222b14c36fd7e52ac0c3.png",
+      "likes": 0,
+      "id": 17
     }
   ]
 }

@@ -42,12 +42,16 @@ button {
   position: relative;
   background-color: #e04b52;
   border: none;
-  border-radius: 5px;
-  height: 3rem;
-  width: max-content;
+  border-radius: 3px;
+  height: 2rem;
+  width: 2rem;
   color: whitesmoke;
   font-size: 18px;
   justify-self: center;
+}
+
+#new-toy-btn{
+ width: max-content;
 }
 
 button:hover {

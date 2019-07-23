@@ -4,115 +4,61 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": "54"
+      "likes": "30"
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": "47"
+      "likes": "22"
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": "50"
+      "likes": "7"
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": "30"
+      "likes": "2"
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": "34"
+      "likes": "9"
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": "3"
+      "likes": "12"
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": "115"
+      "likes": "1"
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": "7"
+      "likes": "1"
     },
     {
       "name": "Jessie",
       "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
-      "likes": "3",
+      "likes": "1",
       "id": 9
     },
     {
-      "name": "Jessie",
-      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
-      "likes": "4",
+      "name": "Forky",
+      "image": "https://pixel.nymag.com/imgs/daily/vulture/2019/06/28/toy-story-4-forky-bts/forky-2.w570.h712.2x.jpg",
+      "likes": "30",
       "id": 10
-    },
-    {
-      "name": "Jessie",
-      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
-      "likes": "4",
-      "id": 11
-    },
-    {
-      "name": "Jessie",
-      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
-      "likes": "4",
-      "id": 12
-    },
-    {
-      "name": "Rick",
-      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20160923150728",
-      "likes": "19",
-      "id": 13
-    },
-    {
-      "name": "newrick",
-      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20160923150728",
-      "likes": "7",
-      "id": 14
-    },
-    {
-      "name": "Garrett uh Huhh",
-      "image": "https://assets.wetheunicorns.com/2018/09/garrett-watts-1520508778-view-0.jpg",
-      "likes": "-216",
-      "id": 15
-    },
-    {
-      "name": "garr",
-      "image": "https://assets.wetheunicorns.com/2018/09/garrett-watts-1520508778-view-0.jpg",
-      "likes": "50",
-      "id": 16
-    },
-    {
-      "name": "Happy Love and Fun",
-      "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjop6_dnb_jAhWIiOAKHfp7BIIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.awn.com%2Fanimationworld%2Fno-guts-no-gory-happy-tree-friends-complete-disaster-dvd-has-arrived&psig=AOvVaw0geFP2WS2J4l4I_dNaFzyT&ust=1563565551321021",
-      "likes": 0,
-      "id": 17
-    },
-    {
-      "name": "Happy Love",
-      "image": "https://www.awn.com/sites/default/files/styles/original/public/image/attached/55780-flippin03-1200.jpg",
-      "likes": "42",
-      "id": 18
-    },
-    {
-      "name": "sdf",
-      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20160923150728",
-      "likes": 0,
-      "id": 19
     }
   ]
 }

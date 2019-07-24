@@ -46,25 +46,7 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 0
-    },
-    {
-      "name": "test",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2019/07/NINTCHDBPICT000505301637.jpg?w=1240",
-      "likes": 1,
-      "id": 10
-    },
-    {
-      "name": "test",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2019/07/NINTCHDBPICT000505301637.jpg?w=1240",
-      "likes": 1,
-      "id": 11
-    },
-    {
-      "name": "test",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2019/07/NINTCHDBPICT000505301637.jpg?w=1240",
-      "likes": 1,
-      "id": 12
+      "likes": -2
     }
   ]
 }
